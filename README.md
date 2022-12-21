@@ -1,4 +1,4 @@
-# 📖 Kenji Personal Website
+# 📖 Jun Joshua Personal Website
 
 <img src="images/readme/banner.png">
 
