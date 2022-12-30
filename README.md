@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 - [Live Demo](https://junjoshuaa.github.io/junjoshua/)
-- [Live Demo](https://junjoshuaa.github.io/junjoshuaaa/)
+- [Live Demo](https://junjoshuaaboutme.vercel.app/)
 
 ## 👤 Author
 <p align="left">
