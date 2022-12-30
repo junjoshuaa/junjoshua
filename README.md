@@ -3,8 +3,8 @@
 <img src="images/readme/banner.png">
 
 ## 🚀 Live Demo
-- [Live Demo](https://junjoshuaa.github.io/junjoshua/)
-- [Live Demo](https://junjoshuaaboutme.vercel.app/)
+- [Live Demo](https://junjoshua.vercel.app/)-V1
+- [Live Demo](https://junjoshuaaboutme.vercel.app/)-V2
 
 ## 👤 Author
 <p align="left">
